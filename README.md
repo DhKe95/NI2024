@@ -14,10 +14,10 @@ Nous avons conçu un site autour de :
 - **Outils** : GitHub, Trello, Figma
 
 ## ✨ Fonctionnalités
-- Page d’accueil dynamique avec [x ou y]  
-- Système de [connexion / quiz / galerie / don, etc.]  
+- Page d’accueil dynamique avec bouton dynamique 
+- Système de quiz  
 - Interface responsive  
-- Bonus : [animation / interaction / API externe ?]
+- Bonus : Animation réalisée 100 % à la main
 
 ## 📸 Aperçu
 ![demo](assets/demo.gif)  
